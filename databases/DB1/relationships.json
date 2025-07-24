@@ -1,0 +1,41 @@
+[
+  {
+    "id": "5200deb0-bc40-4178-b5ac-ced011ff8397",
+    "start_node": "6c6f5c92-f8b9-4873-90d1-716bf75dd746",
+    "end_node": "0f10c225-7d85-4908-8476-12ed241b03ff",
+    "type": "KNOWS",
+    "properties": {
+      "since": "2023"
+    }
+  },
+  {
+    "id": "5088d541-70c0-4864-bfcb-36fdec0320a0",
+    "start_node": "1c02c124-fb72-4f19-857e-cf4d25ae15f7",
+    "end_node": "56874b57-0c21-480e-9fbd-5673a0d272fa",
+    "type": "FRIENDS_WITH",
+    "properties": {}
+  },
+  {
+    "id": "2b2e7c02-9306-4e64-85e1-6747be18fd50",
+    "start_node": "1c02c124-fb72-4f19-857e-cf4d25ae15f7",
+    "end_node": "56874b57-0c21-480e-9fbd-5673a0d272fa",
+    "type": "FRIEND",
+    "properties": {}
+  },
+  {
+    "id": "91467b1b-3112-49e5-9d3c-b44469b56bc3",
+    "start_node": "1c02c124-fb72-4f19-857e-cf4d25ae15f7",
+    "end_node": "56874b57-0c21-480e-9fbd-5673a0d272fa",
+    "type": "FRIEND",
+    "properties": {}
+  },
+  {
+    "id": "075369d9-1f84-4693-bfdd-f71c115072fa",
+    "start_node": "1c02c124-fb72-4f19-857e-cf4d25ae15f7",
+    "end_node": "ec78ee99-c861-4fff-a5de-9ebba040d12b",
+    "type": "WORKS_AT",
+    "properties": {
+      "since": 2020
+    }
+  }
+]

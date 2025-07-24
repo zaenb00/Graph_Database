@@ -1,0 +1,177 @@
+[
+  {
+    "id": "1c02c124-fb72-4f19-857e-cf4d25ae15f7",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "name": "Alice",
+      "age": "25"
+    }
+  },
+  {
+    "id": "56874b57-0c21-480e-9fbd-5673a0d272fa",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "name": "Bob",
+      "age": "45"
+    }
+  },
+  {
+    "id": "6c6f5c92-f8b9-4873-90d1-716bf75dd746",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "name": "Alice"
+    }
+  },
+  {
+    "id": "0f10c225-7d85-4908-8476-12ed241b03ff",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "name": "Bob"
+    }
+  },
+  {
+    "id": "e67e8d8c-8512-426b-80a9-3b97e3c30312",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "name": "Alice",
+      "age": "30"
+    }
+  },
+  {
+    "id": "a4ce850f-7d8e-476b-9f18-516d13a514e0",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "name": "Bob",
+      "age": "25"
+    }
+  },
+  {
+    "id": "11a33a9e-3da1-432f-8fc8-74ccf2eeb99d",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "name": "Charlie",
+      "age": "35"
+    }
+  },
+  {
+    "id": "4d71d23b-78a1-4ce6-bde0-6846a7dbc080",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "name": "Alice"
+    }
+  },
+  {
+    "id": "05feab8d-84db-48fc-8882-f92003a65308",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "name": "Bob"
+    }
+  },
+  {
+    "id": "1dee52e6-cdba-4fbf-86c1-73a106c000da",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "name": "Charlie"
+    }
+  },
+  {
+    "id": "81793645-0df1-4a71-9c92-2bc5f017b354",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "name": "Zainab",
+      "age": 30
+    }
+  },
+  {
+    "id": "65830b21-8c96-4a49-85be-4c055b2d10df",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "name": "Emaan",
+      "age": 30
+    }
+  },
+  {
+    "id": "ec0f64ac-a7ea-49d6-8339-0c99cec81561",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "name": "Laiba",
+      "age": 18
+    }
+  },
+  {
+    "id": "2ec39b05-89a1-439e-812a-c16f81fc7cba",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "name": "Shabiha",
+      "age": 20
+    }
+  },
+  {
+    "id": "e760bc37-638d-4ff3-bbe9-c998cfe967d9",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "name": "Neo4j",
+      "location": "San Francisco"
+    }
+  },
+  {
+    "id": "ec78ee99-c861-4fff-a5de-9ebba040d12b",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "name": "OpenAI",
+      "founded": 2015
+    }
+  },
+  {
+    "id": "d5b75f0a-bf40-48d6-bbb6-ee71fd5ff2a8",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "name": "Amna",
+      "age": 25
+    }
+  },
+  {
+    "id": "ea0cf08d-78f1-43ca-841c-bd05f894a8e3",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "name": "Anna",
+      "age": 25
+    }
+  }
+]
